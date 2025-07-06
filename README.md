@@ -1,2 +1,2 @@
 # ML
-ML Project
+Sentiment Analysis Project
